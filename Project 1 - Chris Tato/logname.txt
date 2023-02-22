@@ -1,0 +1,440 @@
+SQL> @Project_1.sql
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+DNAME                                                                           
+--------------------------------------------------------------------------------
+Chris Tato Inc.                                                                 
+CAT Corp.                                                                       
+
+
+MOVIE_NAME                                                                      
+--------------------------------------------------------------------------------
+MOVIE_LANGUAGE                                                                  
+--------------------------------------------------------------------------------
+Moonlight                                                                       
+French                                                                          
+                                                                                
+The Big Frenchowski                                                             
+French                                                                          
+                                                                                
+You, Me, and Duprea                                                             
+German                                                                          
+                                                                                
+
+MOVIE_NAME                                                                      
+--------------------------------------------------------------------------------
+MOVIE_LANGUAGE                                                                  
+--------------------------------------------------------------------------------
+Your Name.                                                                      
+Japanese                                                                        
+                                                                                
+
+
+DIRECTOR                                                                        
+--------------------------------------------------------------------------------
+The Scream                                                                      
+Scream Jr.                                                                      
+
+
+MOVIE_NAME                                                                      
+--------------------------------------------------------------------------------
+  RUN_TIME                                                                      
+----------                                                                      
+RELEASE_DATE                                                                    
+--------------------------------------------------------------------------------
+Pauly Shore and the Fun-Time Extravaganza                                       
+        15                                                                      
+July 4th 2020                                                                   
+                                                                                
+Lion King                                                                       
+       160                                                                      
+August 25th 1998                                                                
+
+MOVIE_NAME                                                                      
+--------------------------------------------------------------------------------
+  RUN_TIME                                                                      
+----------                                                                      
+RELEASE_DATE                                                                    
+--------------------------------------------------------------------------------
+                                                                                
+
+
+MOVIE_NAME                                                                      
+--------------------------------------------------------------------------------
+Lion King                                                                       
+Lion King 1 and 1/2                                                             
+
+
+ACTOR_NAME                                                                      
+--------------------------------------------------------------------------------
+Megan Fox                                                                       
+French-Man McGee                                                                
+Ru Paul                                                                         
+The Dude                                                                        
+Joe Mama                                                                        
+Shia Labouef                                                                    
+Paul Beach                                                                      
+
+7 rows selected.
+
+
+COUNT(DISTINCTMOVIES.MOVIE_ID)                                                  
+------------------------------                                                  
+                             4                                                  
+
+
+MOVIE_NAME                                                                      
+--------------------------------------------------------------------------------
+Pauly Shore and the Fun-Time Extravaganza                                       
+Scary Movie 2: Only Scares                                                      
+Lion King 1 and 1/2                                                             
+Scary Movie                                                                     
+
+
+MOVIE_NAME                                                                      
+--------------------------------------------------------------------------------
+Your Name.                                                                      
+You, Me, and Duprea                                                             
+
+SQL> quit

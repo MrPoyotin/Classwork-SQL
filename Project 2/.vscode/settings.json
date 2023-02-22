@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mybatis-3.5.7\\mybatis-3.5.7.jar",
+        "mybatis-3.5.7\\lib\\asm-7.1.jar",
+        "mybatis-3.5.7\\lib\\cglib-3.3.0.jar",
+        "mybatis-3.5.7\\lib\\commons-logging-1.2.jar",
+        "mybatis-3.5.7\\lib\\javassist-3.27.0-GA.jar",
+        "mybatis-3.5.7\\lib\\log4j-1.2.17.jar",
+        "mybatis-3.5.7\\lib\\log4j-api-2.14.1.jar",
+        "mybatis-3.5.7\\lib\\log4j-core-2.14.1.jar",
+        "mybatis-3.5.7\\lib\\ognl-3.2.20.jar",
+        "mybatis-3.5.7\\lib\\slf4j-api-1.7.30.jar",
+        "mybatis-3.5.7\\lib\\slf4j-log4j12-1.7.30.jar",
+        "ojdbc11.jar"
+    ]
+}
